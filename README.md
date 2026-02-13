@@ -1,4 +1,3 @@
-# Javascript Review Project by write_your_fullname
+# Javascript Review Project by John Niño C.Cabahug
 This project is a review of javascript concepts, from beginner to advanced.
-# update
-John Niño C. Cabahug
+# Updating file from github repo and pull changes to local
